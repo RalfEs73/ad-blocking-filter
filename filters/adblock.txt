@@ -2,7 +2,7 @@
 ! Description: Filters focusing on web advertising, banners, popups and sponsored content
 ! Author: Ralf Essbaumer
 ! Homepage: https://github.com/RalfEs73/ublock-filter
-! Last modified: Thu, 04 Jun 2026 14:07:09 +0000
+! Last modified: Thu, 04 Jun 2026 14:08:39 +0000
 ! Expires: 1 day
 ! License: MIT
 
@@ -23,16 +23,6 @@ www.bitcoin.de###dashboard_otc_trading_banner_teaser
 ! cloud.umami.is
 cloud.umami.is##.Button-size-md--Mzc3O.UpgradeButton_button__37NAb.Button-button--OWRkM
 cloud.umami.is##.Nav_trial__PrBt1
-
-! coinmarketcap.com
-coinmarketcap.com##.block-newsletter.kwbHdq.sc-f70bb44c-0
-coinmarketcap.com##.isgIpZ.sc-f70bb44c-0
-coinmarketcap.com##.content_folded.cSovPg.sc-c1554bc0-0 > .cmc-sponsor-wrapper.kDGTmn.sc-9784cd38-0 > .cmc-sponsor.kUvsET.cLwDNK.sc-2bc55423-0.sc-c1554bc0-0
-coinmarketcap.com##.cdp-lhs-banner-2 > .cmc-sponsor-wrapper.kDGTmn.sc-9784cd38-0 > .cmc-sponsor.kUvsET.cLwDNK.sc-2bc55423-0.sc-c1554bc0-0
-coinmarketcap.com##.jFqZtM.sc-2fcea0a1-17 > .cmc-sponsor-wrapper.kDGTmn.sc-9784cd38-0
-coinmarketcap.com##.bGtIyJ.sc-322137ab-0 > .cmc-sponsor-wrapper.kDGTmn.sc-9784cd38-0 > .cmc-sponsor.kUvsET.cLwDNK.sc-2bc55423-0.sc-c1554bc0-0
-||s2.coinmarketcap.com/static/img/cdp-image/CoinDepo2_CoinMarket_1244x208_Sea.gif$image
-coinmarketcap.com##.kguytT.sc-c1554bc0-0 > .cmc-sponsor-wrapper.kDGTmn.sc-9784cd38-0
 
 ! de.openfoodfacts.org
 de.openfoodfacts.org##.row.donation-banner
