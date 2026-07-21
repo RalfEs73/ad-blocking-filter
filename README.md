@@ -3,14 +3,15 @@
 </p>
 
 # uBlock Origin Filter
-Letzter Update der Listen: 21.07.2026 13:12 Uhr
+Letzter Update der Listen: 21.07.2026 13:13 Uhr
 
 ## Einträge der Listen
+AD Block List: 23
+
+Badware List: 28
 
 ## How to use
 Fügen den folgenden Link zu den uBlock Origin Filtern hinzu:
-AD Block List: 23
-Badware List: 28
 
 ```sh
 https://raw.githubusercontent.com/RalfEs73/ublock-filter/main/filters/adblock.txt
