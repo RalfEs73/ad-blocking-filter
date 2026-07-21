@@ -3,21 +3,22 @@
 </p>
 
 # uBlock Origin Filter
-Letzter Update der Listen: 21.07.2026 13:19 Uhr.
+Letzter Update der Listen: 21.07.2026 13:28 Uhr.
 
 ## Einträge in den Listen
 AD Block List: 23 Einträge  
 Badware List: 28 Einträge
 
 ## How to use
-Fügen den folgenden Link zu den uBlock Origin Filtern hinzu:
+Fügen die folgenden Links zu den uBlock Origin Filtern hinzu:
 
+### Werbefilter
 ```sh
 https://raw.githubusercontent.com/RalfEs73/ublock-filter/main/filters/adblock.txt
 ```
 
-Es gibt noch einen weiteren Filter, für betrügersiche Seiten:
-
+## Betrügerische Webseiten
+Es gibt noch einen weiteren Filter, für betrügersiche Seiten:  
 ```sh
 https://raw.githubusercontent.com/RalfEs73/ublock-filter/main/filters/badware.txt
 ```
