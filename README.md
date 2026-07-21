@@ -3,10 +3,10 @@
 </p>
 
 # uBlock Origin Filter
-Letzter Update der Listen: 21.07.2026 13:15 Uhr.
+Letzter Update der Listen: 21.07.2026 13:19 Uhr.
 
 ## Einträge in den Listen
-AD Block List: 23 Einträge
+AD Block List: 23 Einträge  
 Badware List: 28 Einträge
 
 ## How to use
