@@ -6,6 +6,7 @@ microsoft.cloud
 microsoft.com
 microsoftalumni.com
 office.com
+pok.tech
 ralfes.cloud
 sharepoint.com
 zigarren-db.de
