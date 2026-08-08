@@ -3,7 +3,7 @@
 </p>
 
 # uBlock Origin Filter
-Letzter Update der Listen: 08.08.2026 01:00 Uhr.
+Letzter Update der Listen: 09.08.2026 01:00 Uhr.
 
 ## Einträge in den Listen
 AD Block List: 23 Einträge  
