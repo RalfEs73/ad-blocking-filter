@@ -2,15 +2,15 @@
     <img width="275" alt="AdGuard Filters logo" src="https://cdn.adtidy.org/website/github.com/AdguardFilters/viking.svg" />
 </p>
 
-# uBlock Origin Filter
-Letzter Update der Listen: 10.08.2026 01:00 Uhr.
+# uBlock Origin & AdGuard Filter
+Letzter Update der Listen: 10.08.2026 20:48 Uhr.
 
 ## Einträge in den Listen
 AD Block List: 23 Einträge  
 Badware List: 29 Einträge
 
 ## How to use
-Fügen die folgenden Links zu den uBlock Origin Filtern hinzu:
+Fügen die folgenden Links zu den uBlock Origin bzw. AdGuard Filtern hinzu:
 
 ### Werbefilter
 ```sh
