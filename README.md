@@ -3,7 +3,7 @@
 </p>
 
 # uBlock Origin & AdGuard Filter
-Letzter Update der Listen: 10.08.2026 22:02 Uhr.
+Letzter Update der Listen: 10.08.2026 22:05 Uhr.
 
 ## Einträge in den Listen
 AD Block List: 23 Einträge  
