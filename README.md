@@ -3,7 +3,7 @@
 </p>
 
 # uBlock Origin & AdGuard Filter
-Letzter Update der Listen: 10.08.2026 22:45 Uhr.
+Letzter Update der Listen: 10.08.2026 22:46 Uhr.
 
 ## Einträge in den Listen
 Werbeblocker‑Filterliste: 23 Einträge  
