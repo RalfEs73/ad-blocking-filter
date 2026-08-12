@@ -3,14 +3,14 @@
 </p>
 
 # AdGuard Filter
-Letzter Update der Listen: 12.08.2026 22:58 Uhr.
+Letzter Update der Listen: 12.08.2026 22:59 Uhr.
 
 ## Einträge in den Listen
 Werbeblocker‑Filterliste: 23 Einträge  
 Badware List: 29 Einträge
 
 ## How to use
-Fügen die folgenden Links zu den uBlock Origin bzw. AdGuard Filtern hinzu:
+Fügen die folgenden Links zu den AdGuard Filtern hinzu:
 
 ### Werbefilter
 ```sh
