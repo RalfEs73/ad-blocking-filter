@@ -3,7 +3,7 @@
 </p>
 
 # uBlock Origin & AdGuard Filter
-Letzter Update der Listen: 12.08.2026 01:00 Uhr.
+Letzter Update der Listen: 12.08.2026 22:32 Uhr.
 
 ## Einträge in den Listen
 Werbeblocker‑Filterliste: 23 Einträge  
@@ -14,12 +14,12 @@ Fügen die folgenden Links zu den uBlock Origin bzw. AdGuard Filtern hinzu:
 
 ### Werbefilter
 ```sh
-https://raw.githubusercontent.com/RalfEs73/ad‑blocking-filter/main/filters/adblock.txt
+https://raw.githubusercontent.com/RalfEs73/ad-blocking-filter/main/filters/adblock.txt
 ```
 
 ### Betrügerische Webseiten
 ```sh
-https://raw.githubusercontent.com/RalfEs73/ad‑blocking-filter/main/filters/badware.txt
+https://raw.githubusercontent.com/RalfEs73/ad-blocking-filter/main/filters/badware.txt
 ```
 
 ## Änderungen der Listen
