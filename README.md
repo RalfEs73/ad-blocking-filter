@@ -3,7 +3,7 @@
 </p>
 
 # uBlock Origin & AdGuard Filter
-Letzter Update der Listen: 12.08.2026 22:50 Uhr.
+Letzter Update der Listen: 12.08.2026 22:52 Uhr.
 
 ## Einträge in den Listen
 Werbeblocker‑Filterliste: 23 Einträge  
@@ -26,8 +26,4 @@ https://raw.githubusercontent.com/RalfEs73/ad-blocking-filter/main/filters/badwa
 Wenn du eine Änderung der Listen haben möchtest, kannst du das [hier](https://n8n.ralfes.cloud/form/28c6efa4-b523-4cf3-9e37-e968b2ae78fd) tun.  
 
 ## Youtube Videoanleitung
-### AdGuard
 [![Youtube](https://img.youtube.com/vi/-rGO72L9Akk/0.jpg)](https://www.youtube.com/watch?v=-rGO72L9Akk)
-
-### uBlock Origin
-[![Youtube](https://img.youtube.com/vi/qT_rit7xd-k/0.jpg)](https://www.youtube.com/watch?v=qT_rit7xd-k)
