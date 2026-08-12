@@ -14,12 +14,12 @@ Fügen die folgenden Links zu den uBlock Origin bzw. AdGuard Filtern hinzu:
 
 ### Werbefilter
 ```sh
-https://raw.githubusercontent.com/RalfEs73/ublock-filter/main/filters/adblock.txt
+https://raw.githubusercontent.com/RalfEs73/ad‑blocking-filter/main/filters/adblock.txt
 ```
 
 ### Betrügerische Webseiten
 ```sh
-https://raw.githubusercontent.com/RalfEs73/ublock-filter/main/filters/badware.txt
+https://raw.githubusercontent.com/RalfEs73/ad‑blocking-filter/main/filters/badware.txt
 ```
 
 ## Änderungen der Listen
