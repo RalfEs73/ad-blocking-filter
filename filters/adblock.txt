@@ -2,7 +2,7 @@
 ! Description: Filters focusing on web advertising, banners, popups and sponsored content
 ! Author: Ralf Essbaumer
 ! Homepage: https://github.com/RalfEs73/ad-blocking-filter
-! Last modified: Wed, 26 Aug 2026 23:00:38 +0000
+! Last modified: Thu, 27 Aug 2026 17:36:50 +0000
 ! Expires: 1 day
 ! License: MIT
 
@@ -90,6 +90,9 @@ nebenan.de##.ui-card.c-layout_menu > .c-layout_menu-banner.ui-media.QBDJ2r4nNvLl
 nebenan.de##.r7LJSbFXnShvH1srHJDc
 nebenan.de##._sidebarRight_1sb5g_144 > .Ct6UEERaoVXkaYLOrXGs._root--border-radius_1pn8n_130._root_1pn8n_120 > .jgIp_zacZkxnobvcajid._root_csa15_120 > .QBDJ2r4nNvLl4dZ8uKsF
 nebenan.de##.c-layout_header_panel-label_donations.c-layout_header_panel-item > .ui-button-small.ui-button-primary.ui-button
+
+! solscan.io
+solscan.io###__next > div.flex.flex-col.gap-0.items-stretch.justify-start.h-full.min-h-screen:nth-child(2) > div.w-full.flex-1.min-h-\[calc\(100dvh-60px\)\]:nth-child(3) > div.my-0.mx-auto.max-w-full.px-4.md\:px-6.\32 xl\:px-0.\32 xl\:max-w-\[1500px\]:first-child > div.flex.flex-col.gap-6.items-stretch.justify-start.w-full:last-child > div > div.flex.flex-col.gap-3.items-stretch.justify-start.w-full > div.flex.flex-col.gap-6.items-stretch.justify-start.w-full:nth-child(2) > div.flex.flex-row.flex-wrap.justify-start.grow-0.shrink-0.basis-full.min-w-0.box-border.gap-y-4.-mx-1\.5.items-stretch:first-child > div.max-w-24\/24.md\:max-w-24\/24.lg\:max-w-8\/24.flex-24\/24.md\:flex-24\/24.lg\:flex-8\/24.block.relative.box-border.my-0.px-1\.5:last-child > div.rounded-xl.border.border-border.shadow-m.dark\:shadow-mDark.bg-neutral0.p-4.lg.h-full > div.flex.flex-col.gap-4.items-start.justify-start:last-child > div.flex.flex-col.gap-4.items-stretch.justify-start.w-full > div.block.w-full.max-w-full.py-2.-my-2.pt-4:last-child
 
 ! solsea.io
 solsea.io##.not-verified__InfoSection_2o5ly
