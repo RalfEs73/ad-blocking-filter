@@ -2,7 +2,7 @@
 ! Description: Filters focusing on web advertising, banners, popups and sponsored content
 ! Author: Ralf Essbaumer
 ! Homepage: https://github.com/RalfEs73/ad-blocking-filter
-! Last modified: Sun, 11 Oct 2026 23:00:38 +0000
+! Last modified: Mon, 12 Oct 2026 23:00:38 +0000
 ! Expires: 1 day
 ! License: MIT
 
@@ -68,6 +68,14 @@ heliumtracker.io##.flex-row.mr-auto.navbar-nav > .d-sm-block.d-none.nav-item > .
 heliumtracker.io##.alert-danger.alert
 heliumtracker.io##span.user-block-role:nth-of-type(3)
 heliumtracker.io##[href="/premium"]
+
+! iplocation.net
+iplocation.net##main.mx-auto.grid.max-w-7xl.gap-6.px-4.py-6.sm\:px-6.sm\:py-8.lg\:grid-cols-\[minmax\(0\,1fr\)_20rem\].lg\:gap-8.lg\:px-8:nth-child(6) > div.site-content.min-w-0:first-child > aside.hidden.md\:flex.mt-6.justify-center:nth-child(2)
+iplocation.net##main.mx-auto.grid.max-w-7xl.gap-6.px-4.py-6.sm\:px-6.sm\:py-8.lg\:grid-cols-\[minmax\(0\,1fr\)_20rem\].lg\:gap-8.lg\:px-8:nth-child(6) > aside.space-y-4.lg\:sticky.lg\:top-6.lg\:self-start:last-child > aside.hidden.lg\:flex.justify-center:first-child
+iplocation.net##div.border-b.border-slate-200.bg-slate-50.dark\:border-slate-800.dark\:bg-slate-950:nth-child(3) > div.mx-auto.max-w-7xl.px-4.py-4.sm\:px-6.lg\:px-8 > aside.hidden.md\:flex.justify-center:first-child
+iplocation.net##main.mx-auto.grid.max-w-7xl.gap-6.px-4.py-6.sm\:px-6.sm\:py-8.lg\:grid-cols-\[minmax\(0\,1fr\)_20rem\].lg\:gap-8.lg\:px-8:nth-child(6) > div.site-content.min-w-0:first-child > div.my-6:nth-child(9) > aside.hidden.md\:flex.justify-center
+iplocation.net##main.mx-auto.grid.max-w-7xl.gap-6.px-4.py-6.sm\:px-6.sm\:py-8.lg\:grid-cols-\[minmax\(0\,1fr\)_20rem\].lg\:gap-8.lg\:px-8:nth-child(6) > div.site-content.min-w-0:first-child > div.mt-6:last-child > aside.hidden.md\:flex.justify-center
+iplocation.net##main.mx-auto.grid.max-w-7xl.gap-6.px-4.py-6.sm\:px-6.sm\:py-8.lg\:grid-cols-\[minmax\(0\,1fr\)_20rem\].lg\:gap-8.lg\:px-8:nth-child(6) > aside.space-y-4.lg\:sticky.lg\:top-6.lg\:self-start:last-child > aside.hidden.lg\:flex.justify-center:last-child
 
 ! justwatch.com
 www.justwatch.com##.promoted-buybox
