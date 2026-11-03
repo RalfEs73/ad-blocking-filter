@@ -3,7 +3,7 @@
 </p>
 
 # AdGuard Filter
-Letzter Update der Listen: 02.11.2026 01:00 Uhr.
+Letzter Update der Listen: 03.11.2026 01:00 Uhr.
 
 ## Einträge in den Listen
 Werbeblocker‑Filterliste: 27 Einträge  
