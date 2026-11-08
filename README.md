@@ -3,11 +3,11 @@
 </p>
 
 # AdGuard Filter
-Letzter Update der Listen: 07.11.2026 01:00 Uhr.
+Letzter Update der Listen: 08.11.2026 01:00 Uhr.
 
 ## Einträge in den Listen
-Werbeblocker‑Filterliste: 27 Einträge  
-Badware List: 31 Einträge
+Werbeblocker‑Filterliste: 28 Einträge  
+Badware List: 30 Einträge
 
 ## How to use
 Fügen die folgenden Links zu den AdGuard Filtern hinzu:
