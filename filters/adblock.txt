@@ -2,7 +2,7 @@
 ! Description: Filters focusing on web advertising, banners, popups and sponsored content
 ! Author: Ralf Essbaumer
 ! Homepage: https://github.com/RalfEs73/ad-blocking-filter
-! Last modified: Sat, 07 Nov 2026 00:00:38 +0000
+! Last modified: Sun, 08 Nov 2026 00:00:38 +0000
 ! Expires: 1 day
 ! License: MIT
 
@@ -91,6 +91,15 @@ www.kleinanzeigen.de###viewad-details
 ! krypto-magazin.de
 www.krypto-magazin.de##div.card.intextbox:nth-of-type(3)
 www.krypto-magazin.de##div.card.intextbox:nth-of-type(6)
+
+! merkur.de
+merkur.de##div.id-Page-skyLayout.id-SitePosHelperWrap:nth-child(2) > div.wv_story_el_topBeep.harzsgqwhvfy7yiygy2nn1y8zs3yiyimfzzmsvgy7:first-child
+merkur.de##div.id-Page-skyLayout.id-SitePosHelperWrap:nth-child(2) > article.id-Page-skyLayout-content.idjs-Story:last-child > div.idjs-StoryElements:first-child > a.id-Story-googleFollowButton.id-Story-googleFollowButton--default:nth-child(6) > span.id-Story-googleFollowButton-inner.id-Story-googleFollowButton-inner--default
+merkur.de##div.id-Page-skyLayout.id-SitePosHelperWrap:nth-child(2) > article.id-Page-skyLayout-content.idjs-Story:last-child > div.idjs-StoryElements:first-child > a.id-Story-googleFollowButton.id-Story-googleFollowButton--default:nth-child(6)
+merkur.de##div.id-Page-skyLayout.id-SitePosHelperWrap:nth-child(2) > article.id-Page-skyLayout-content.idjs-Story:last-child > div.idjs-StoryElements:first-child > div.harzsgqwhvfy7yiygy2nn1y8zs3yiyiqs73n73:nth-child(10)
+merkur.de##div.id-Page-skyLayout.id-SitePosHelperWrap:nth-child(2) > article.id-Page-skyLayout-content.idjs-Story:last-child > div.idjs-StoryElements:first-child > div.harzsgqwhvfy7yiygy2nn1y8zs3yiyiqs73n73:nth-child(14)
+merkur.de##div.id-Page-skyLayout.id-SitePosHelperWrap:nth-child(2) > article.id-Page-skyLayout-content.idjs-Story:last-child > div.idjs-StoryElements:first-child > div.harzsgqwhvfy7yiygy2nn1y8zs3yiyiqs73n73:nth-child(18)
+merkur.de##div.id-Page-skyLayout.id-SitePosHelperWrap:nth-child(2) > article.id-Page-skyLayout-content.idjs-Story:last-child > div.id-Recommendation:nth-child(2)
 
 ! mobiflip.de
 www.mobiflip.de##.embedpostwrapperlong
